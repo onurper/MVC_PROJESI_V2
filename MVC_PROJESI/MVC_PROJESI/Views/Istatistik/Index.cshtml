@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+    <br />
+    <h2 style="text-align:center">Sertifika görevleri </h2>
+    <hr />
+
+    <h4>
+        1) Toplam kategori sayısı :
+        @ViewBag.KATEGORI_LENGHT
+    </h4>
+    <br />
+    <h4>
+        2) Başlık tablosunda "yazılım" kategorisine ait başlık sayısı :
+        @ViewBag.BASLIK_YAZILIM_LENGHT
+    </h4>
+    <br />
+    <h4>
+        3) Yazar adında 'a' harfi geçen yazar sayısı :
+        @ViewBag.YAZAR_A_HARFI_ICEREN
+    </h4>
+    <br />
+    <h4>
+        4) En fazla başlığa sahip kategori adı :
+        @ViewBag.EN_FAZLA_BASLIK
+    </h4>
+    <br />
+    <h4>
+        5) Kategori tablosunda durumu true olan kategoriler ile false olan kategoriler arasındaki sayısal fark :
+        @ViewBag.KATEGORI_TRUE_FALSE_FARKI
+    </h4>
+</div>

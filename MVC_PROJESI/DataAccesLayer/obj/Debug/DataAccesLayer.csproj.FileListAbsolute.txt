@@ -1,0 +1,15 @@
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityFramework.dll
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityFramework.xml
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\peron\source\repos\MVC_PROJESI\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
